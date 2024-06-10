@@ -19,6 +19,14 @@ A highly requested tutorial! We are covering from start to finish how to write S
 
 <h4>The steps below are compatible with Ubuntu 22.04</h4>
 
+> [!NOTE]  
+> If you have Windows, please download VMware Workstation Player, install then create a virtual machine. Follow the tutorial video for full guidance.
+> 
+> VMware Workstation Player for Windows: https://www.techspot.com/downloads/downloadnowfile/1969/?evp=4c50cf08866937ea246522b86f4d4286&file=2171
+>
+> Ubuntu Desktop 22.04 ISO: https://releases.ubuntu.com/jammy/ubuntu-22.04.4-desktop-amd64.iso
+> 
+
 <h4>Step 1 Dependencies</h4>
 
 ```shell
