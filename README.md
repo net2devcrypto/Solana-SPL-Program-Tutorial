@@ -17,6 +17,8 @@ A highly requested tutorial! We are covering from start to finish how to write S
 
 <h3>Video 2 Instructions</h3>
 
+<h4>The steps below are compatible with Ubuntu 22.04</h4>
+
 <h4>Step 1 Dependencies</h4>
 
 ```shell
