@@ -3,7 +3,7 @@
 A highly requested tutorial! We are covering from start to finish how to write Solana SPL Token Program to launch your own token on the Solana blockchain. 
 
 
-<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/anchorlogo.png" width="180" height="60"> <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/sol-logo.png" width="170" height="55">
+<img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/anchorlogo.png" width="180" height="60"> <img src="https://raw.githubusercontent.com/net2devcrypto/misc/main/sol-logo.png" width="170" height="45">
 
 > [!NOTE]  
 > THE FILES ATTACHED TO THIS REPO ARE FOR EDUCATIONAL PURPOSES ONLY.
