@@ -7,9 +7,15 @@ A highly requested tutorial! We are covering from start to finish how to write S
 > NOT FINANCIAL ADVICE
 > USE IT AT YOUR OWN RISK, I'M NOT RESPONSIBLE FOR ANY USE, ISSUES.
 
+<h3>Video 1</h3>
+
+<a href="https://youtu.be/g2YK_YBWA9A" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
 <h3>Video 2</h3>
 
-<a href="https://youtu.be/1YttXux6yVY" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+<a href="https://youtu.be/tzaZJXS7AWM" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
+<h3>Video 2 Instructions</h3>
 
 <h4>Step 1 Dependencies</h4>
 
