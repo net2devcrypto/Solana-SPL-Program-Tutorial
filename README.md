@@ -7,7 +7,7 @@ A highly requested tutorial! We are covering from start to finish how to write S
 > NOT FINANCIAL ADVICE
 > USE IT AT YOUR OWN RISK, I'M NOT RESPONSIBLE FOR ANY USE, ISSUES.
 
-Video 2:
+<h3>Video 2</h3>
 
 <a href="https://youtu.be/1YttXux6yVY" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
