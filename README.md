@@ -18,7 +18,7 @@ A highly requested tutorial! We are covering from start to finish how to write S
 
 <a href="https://youtu.be/tzaZJXS7AWM" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
 
-<h3>Video 2 Instructions</h3>
+<h3>Setup Anchor Development Environment Instructions</h3>
 
 <h4>The steps below are compatible with Ubuntu 22.04</h4>
 
